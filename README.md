@@ -12,7 +12,7 @@
 
 - **`POST /repositories/:id/like`**: The route must increase the number of likes inside a specific repository chosen through the `id` present inside the route parameters, at each call of this route, the number of likes must be increased by 1;
 
-## Tests Especications
+## Tests Especifications
 
 - **`should be able to create a new repository`**: For this test to pass, your app must allow a repository to be created, returning a json with the project created.
 
